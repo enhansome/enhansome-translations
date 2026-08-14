@@ -86,7 +86,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18033
+            "stars": 18035
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2026-08-10T18:51:28Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 15995
+            "stars": 16002
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2024-12-13T10:59:15Z",
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4891
+            "stars": 4893
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2026-01-26T19:15:38Z",
             "owner": "UlionTse",
             "repo": "translators",
-            "stars": 2704
+            "stars": 2705
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2025-09-29T18:47:13Z",
             "owner": "globalizejs",
             "repo": "globalize",
-            "stars": 4843
+            "stars": 4839
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:45.442Z",
+    "last_updated": "2026-08-14T04:26:12.449Z",
     "original_repository": "mbiesiad/awesome-translations",
     "original_repository_sha": "d8b64f20b4ffcea851e82f261a51f7164ad1a545",
     "enhanced_repository": "enhansome/enhansome-translations",
