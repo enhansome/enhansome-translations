@@ -86,7 +86,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18035
+            "stars": 18033
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2026-08-10T18:51:28Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16002
+            "stars": 16006
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-08T13:36:54Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10323
+            "stars": 10325
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2026-01-26T19:15:38Z",
             "owner": "UlionTse",
             "repo": "translators",
-            "stars": 2705
+            "stars": 2704
           }
         },
         {
@@ -192,7 +192,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:18:28Z",
+            "last_commit": "2026-08-15T01:58:13Z",
             "owner": "translate",
             "repo": "translate",
             "stars": 966
@@ -206,7 +206,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-07T19:51:55Z",
+            "last_commit": "2026-08-14T22:53:11Z",
             "owner": "untra",
             "repo": "polyglot",
             "stars": 495
@@ -277,7 +277,7 @@
             "last_commit": "2025-09-29T18:47:13Z",
             "owner": "globalizejs",
             "repo": "globalize",
-            "stars": 4839
+            "stars": 4838
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:26:12.449Z",
+    "last_updated": "2026-08-15T03:21:12.683Z",
     "original_repository": "mbiesiad/awesome-translations",
     "original_repository_sha": "d8b64f20b4ffcea851e82f261a51f7164ad1a545",
     "enhanced_repository": "enhansome/enhansome-translations",
