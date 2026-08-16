@@ -55,15 +55,15 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automated translation
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,033 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,006 | 🐛 124 | 🌐 Python | 📅 2026-08-10 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,325 | 🐛 26 | 🌐 C++ | 📅 2026-08-08 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,034 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,016 | 🐛 124 | 🌐 Python | 📅 2026-08-10 - 100% Self-Hosted web app to translate text, based on Argos Translate.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,326 | 🐛 26 | 🌐 C++ | 📅 2026-08-08 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
 
 * [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,371 | 🐛 157 | 🌐 Python | 📅 2026-08-08 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,372 | 🐛 157 | 🌐 Python | 📅 2026-08-08 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 * [Fink](https://inlang.com/m/tdozzpar) - Translation editor / CAT software with no-code setup and repository-based operation.
 * [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
 
@@ -84,7 +84,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 * [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,893 | 🐛 476 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
 * [Translator](https://github.com/UlionTse/translators) ⭐ 2,704 | 🐛 10 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 * [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,036 | 🐛 64 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-* [Translate](https://github.com/translate/translate) ⭐ 966 | 🐛 231 | 🌐 Python | 📅 2026-08-15 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+* [Translate](https://github.com/translate/translate) ⭐ 966 | 🐛 231 | 🌐 Python | 📅 2026-08-16 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 * [Polyglot](https://github.com/untra/polyglot) ⭐ 495 | 🐛 9 | 🌐 Ruby | 📅 2026-08-14 - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 * [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) ⭐ 84 | 🐛 14 | 🌐 Python | 📅 2026-08-01 - A Sphinx utility that make it easy to translate and to apply translations.
 * [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
@@ -180,4 +180,4 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
