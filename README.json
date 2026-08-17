@@ -114,7 +114,7 @@
             "last_commit": "2026-08-08T13:36:54Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10326
+            "stars": 10330
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2026-01-26T19:15:38Z",
             "owner": "UlionTse",
             "repo": "translators",
-            "stars": 2704
+            "stars": 2688
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:30:16.094Z",
+    "last_updated": "2026-08-17T03:31:10.092Z",
     "original_repository": "mbiesiad/awesome-translations",
     "original_repository_sha": "d8b64f20b4ffcea851e82f261a51f7164ad1a545",
     "enhanced_repository": "enhansome/enhansome-translations",
