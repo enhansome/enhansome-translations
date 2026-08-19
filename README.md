@@ -55,9 +55,9 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automated translation
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,038 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,030 | 🐛 124 | 🌐 Python | 📅 2026-08-10 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,331 | 🐛 26 | 🌐 C++ | 📅 2026-08-17 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,039 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,033 | 🐛 124 | 🌐 Python | 📅 2026-08-10 - 100% Self-Hosted web app to translate text, based on Argos Translate.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,332 | 🐛 26 | 🌐 C++ | 📅 2026-08-17 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
@@ -82,9 +82,9 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Libraries and tools for developers
 
 * [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,894 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
-* [Translator](https://github.com/UlionTse/translators) ⭐ 2,689 | 🐛 10 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+* [Translator](https://github.com/UlionTse/translators) ⭐ 2,690 | 🐛 10 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 * [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,037 | 🐛 64 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-* [Translate](https://github.com/translate/translate) ⭐ 967 | 🐛 233 | 🌐 Python | 📅 2026-08-18 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+* [Translate](https://github.com/translate/translate) ⭐ 967 | 🐛 232 | 🌐 Python | 📅 2026-08-19 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 * [Polyglot](https://github.com/untra/polyglot) ⭐ 494 | 🐛 9 | 🌐 Ruby | 📅 2026-08-14 - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 * [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) ⭐ 84 | 🐛 14 | 🌐 Python | 📅 2026-08-01 - A Sphinx utility that make it easy to translate and to apply translations.
 * [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
@@ -143,7 +143,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 * [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
 * [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
-* [Awesome New Languages in Machine Translation](https://github.com/slone-nlp/awesome-new-languages-in-machine-translation) ⭐ 22 | 🐛 0 | 📅 2025-12-02 - A list of initiatives for supporting MT (mostly with opensource models) for new languages (mostly lower-resourced ones).
+* [Awesome New Languages in Machine Translation](https://github.com/slone-nlp/awesome-new-languages-in-machine-translation) ⭐ 22 | 🐛 0 | 📅 2026-08-19 - A list of initiatives for supporting MT (mostly with opensource models) for new languages (mostly lower-resourced ones).
 
 ## Blogs
 
