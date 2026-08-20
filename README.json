@@ -83,7 +83,7 @@
                 "last_commit": "2026-02-23T13:09:32Z",
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18039
+                "stars": 18040
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-10T18:51:28Z",
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16033
+                "stars": 16042
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-17T21:08:27Z",
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10332
+                "stars": 10333
               }
             },
             {
@@ -171,7 +171,7 @@
                 "last_commit": "2026-01-26T19:15:38Z",
                 "owner": "UlionTse",
                 "repo": "translators",
-                "stars": 2690
+                "stars": 2691
               }
             },
             {
@@ -198,7 +198,7 @@
                 "archived": false,
                 "id": 3769696,
                 "language": "Python",
-                "last_commit": "2026-08-19T09:16:12Z",
+                "last_commit": "2026-08-19T15:01:22Z",
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 967
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:13.703Z",
+    "last_updated": "2026-08-20T03:27:16.149Z",
     "original_repository": "mbiesiad/awesome-translations",
     "original_repository_id": 264177826,
     "original_repository_sha": "d8b64f20b4ffcea851e82f261a51f7164ad1a545",
