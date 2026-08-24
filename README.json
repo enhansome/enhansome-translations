@@ -73,6 +73,56 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LRM",
+              "description": "Self-hosted CLI/TUI localization manager supporting .resx and JSON (i18next) with multiple translation providers including free options.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1092706684,
+                "language": "CSS",
+                "last_commit": "2026-07-10T08:20:43Z",
+                "owner": "nickprotop",
+                "repo": "LocalizationManager",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Localization and translation platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Traduora",
+              "description": "A platform to manage translation workflow in teams.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173899470,
+                "language": "JavaScript",
+                "last_commit": "2026-08-05T12:36:23Z",
+                "owner": "ever-co",
+                "repo": "ever-traduora",
+                "stars": 2120
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Project management"
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Copy Translator",
               "description": "An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.",
               "children": [],
@@ -98,7 +148,7 @@
                 "last_commit": "2026-08-23T22:47:34Z",
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16112
+                "stars": 16118
               }
             },
             {
@@ -110,10 +160,10 @@
                 "archived": false,
                 "id": 251396732,
                 "language": "C++",
-                "last_commit": "2026-08-21T16:36:10Z",
+                "last_commit": "2026-08-24T14:32:12Z",
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10347
+                "stars": 10348
               }
             },
             {
@@ -135,6 +185,28 @@
           "description": null,
           "node_type": "group",
           "title": "Automated translation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Argos Translate",
+              "description": "Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253849484,
+                "language": "Python",
+                "last_commit": "2026-08-08T12:09:57Z",
+                "owner": "argosopentech",
+                "repo": "argos-translate",
+                "stars": 6393
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Translation software"
         }
       ],
       "title": "Apps"
@@ -156,7 +228,7 @@
                 "last_commit": "2024-12-13T10:59:15Z",
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4894
+                "stars": 4895
               }
             },
             {
@@ -186,7 +258,7 @@
                 "last_commit": "2024-07-23T22:12:59Z",
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2036
+                "stars": 2038
               }
             },
             {
@@ -201,7 +273,7 @@
                 "last_commit": "2026-08-23T05:48:01Z",
                 "owner": "translate",
                 "repo": "translate",
-                "stars": 967
+                "stars": 968
               }
             },
             {
@@ -250,7 +322,7 @@
                 "archived": false,
                 "id": 295669524,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T01:17:06Z",
+                "last_commit": "2026-08-24T11:22:13Z",
                 "owner": "fkirc",
                 "repo": "attranslate",
                 "stars": 358
@@ -330,10 +402,59 @@
         }
       ],
       "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome New Languages in Machine Translation",
+              "description": "A list of initiatives for supporting MT (mostly with opensource models) for new languages (mostly lower-resourced ones).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 859169367,
+                "language": null,
+                "last_commit": "2026-08-19T15:41:22Z",
+                "owner": "openlanguagedata",
+                "repo": "awesome-new-languages-in-machine-translation",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine translation"
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Glocalization Strategy Playbook",
+          "description": "A Guide for Localization and Globalization Professionals by the GILT forum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415076901,
+            "language": "CSS",
+            "last_commit": "2023-03-03T22:49:15Z",
+            "owner": "GILT-Forum",
+            "repo": "Globalization-Strategy-Playbook",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Books"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:36:04.727Z",
+    "last_updated": "2026-08-24T14:32:21.947Z",
     "original_repository": "mbiesiad/awesome-translations",
     "original_repository_id": 264177826,
     "original_repository_sha": "d8b64f20b4ffcea851e82f261a51f7164ad1a545",
