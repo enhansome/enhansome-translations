@@ -133,7 +133,7 @@
                 "last_commit": "2026-02-23T13:09:32Z",
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18051
+                "stars": 18052
               }
             },
             {
@@ -148,7 +148,7 @@
                 "last_commit": "2026-08-23T22:47:34Z",
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16122
+                "stars": 16128
               }
             },
             {
@@ -163,7 +163,7 @@
                 "last_commit": "2026-08-24T20:56:45Z",
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10348
+                "stars": 10352
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-08-08T12:09:57Z",
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6395
+                "stars": 6397
               }
             }
           ],
@@ -258,7 +258,7 @@
                 "last_commit": "2024-07-23T22:12:59Z",
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2038
+                "stars": 2039
               }
             },
             {
@@ -270,7 +270,7 @@
                 "archived": false,
                 "id": 3769696,
                 "language": "Python",
-                "last_commit": "2026-08-23T05:48:01Z",
+                "last_commit": "2026-08-25T18:43:56Z",
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 971
@@ -377,7 +377,7 @@
                 "last_commit": "2024-08-26T12:08:57Z",
                 "owner": "translate",
                 "repo": "pootle",
-                "stars": 1503
+                "stars": 1502
               }
             },
             {
@@ -454,7 +454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:15.355Z",
+    "last_updated": "2026-08-26T03:37:12.721Z",
     "original_repository": "mbiesiad/awesome-translations",
     "original_repository_id": 264177826,
     "original_repository_sha": "d8b64f20b4ffcea851e82f261a51f7164ad1a545",
