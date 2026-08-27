@@ -56,8 +56,8 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Automated translation
 
 * [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,055 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,138 | 🐛 124 | 🌐 Python | 📅 2026-08-23 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,358 | 🐛 25 | 🌐 Java | 📅 2026-08-26 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,140 | 🐛 124 | 🌐 Python | 📅 2026-08-23 - 100% Self-Hosted web app to translate text, based on Argos Translate.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,359 | 🐛 25 | 🌐 Java | 📅 2026-08-26 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
@@ -83,7 +83,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 * [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,895 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
 * [Translator](https://github.com/UlionTse/translators) ⭐ 2,694 | 🐛 10 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
-* [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,038 | 🐛 65 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+* [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,039 | 🐛 65 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 * [Translate](https://github.com/translate/translate) ⭐ 971 | 🐛 234 | 🌐 Python | 📅 2026-08-27 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 * [Polyglot](https://github.com/untra/polyglot) ⭐ 494 | 🐛 6 | 🌐 Ruby | 📅 2026-08-21 - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 * [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) ⭐ 84 | 🐛 14 | 🌐 Python | 📅 2026-08-01 - A Sphinx utility that make it easy to translate and to apply translations.
