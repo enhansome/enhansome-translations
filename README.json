@@ -16,7 +16,8 @@
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T14:34:42.229Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T14:34:42.229Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "niedev",
             "repo": "awesome-translations",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T14:34:42.229Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "alexture",
             "repo": "awesome-translations",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:34:42.229Z"
         }
       ],
       "title": "Translations"
@@ -84,7 +88,8 @@
                 "owner": "nickprotop",
                 "repo": "LocalizationManager",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             }
           ],
           "description": null,
@@ -106,7 +111,8 @@
                 "owner": "ever-co",
                 "repo": "ever-traduora",
                 "stars": 2121
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             }
           ],
           "description": null,
@@ -133,8 +139,9 @@
                 "last_commit": "2026-02-23T13:09:32Z",
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18055
-              }
+                "stars": 18054
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -148,8 +155,9 @@
                 "last_commit": "2026-08-23T22:47:34Z",
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16140
-              }
+                "stars": 16147
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -163,8 +171,9 @@
                 "last_commit": "2026-08-26T21:56:17Z",
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10359
-              }
+                "stars": 10361
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -178,8 +187,9 @@
                 "last_commit": "2024-07-04T15:06:19Z",
                 "owner": "crow-translate",
                 "repo": "crow-translate",
-                "stars": 1978
-              }
+                "stars": 1979
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             }
           ],
           "description": null,
@@ -200,8 +210,9 @@
                 "last_commit": "2026-08-08T12:09:57Z",
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6403
-              }
+                "stars": 6407
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             }
           ],
           "description": null,
@@ -228,8 +239,9 @@
                 "last_commit": "2024-12-13T10:59:15Z",
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4895
-              }
+                "stars": 4896
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -244,7 +256,8 @@
                 "owner": "UlionTse",
                 "repo": "translators",
                 "stars": 2694
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -258,8 +271,9 @@
                 "last_commit": "2024-07-23T22:12:59Z",
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2039
-              }
+                "stars": 2040
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -273,8 +287,9 @@
                 "last_commit": "2026-08-27T05:00:12Z",
                 "owner": "translate",
                 "repo": "translate",
-                "stars": 971
-              }
+                "stars": 973
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -289,7 +304,8 @@
                 "owner": "untra",
                 "repo": "polyglot",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -304,7 +320,8 @@
                 "owner": "sphinx-doc",
                 "repo": "sphinx-intl",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             }
           ],
           "description": null,
@@ -326,7 +343,8 @@
                 "owner": "fkirc",
                 "repo": "attranslate",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -341,7 +359,8 @@
                 "owner": "maximbilan",
                 "repo": "SwiftGoogleTranslate",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             }
           ],
           "description": null,
@@ -363,7 +382,8 @@
                 "owner": "globalizejs",
                 "repo": "globalize",
                 "stars": 4835
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -378,7 +398,8 @@
                 "owner": "translate",
                 "repo": "pootle",
                 "stars": 1503
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             },
             {
               "node_type": "item",
@@ -393,7 +414,8 @@
                 "owner": "simplelocalize",
                 "repo": "simplelocalize-cli",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             }
           ],
           "description": null,
@@ -421,7 +443,8 @@
                 "owner": "openlanguagedata",
                 "repo": "awesome-new-languages-in-machine-translation",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T14:34:42.229Z"
             }
           ],
           "description": null,
@@ -447,14 +470,15 @@
             "owner": "GILT-Forum",
             "repo": "Globalization-Strategy-Playbook",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T14:34:42.229Z"
         }
       ],
       "title": "Books"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:04:43.086Z",
+    "last_updated": "2026-08-28T14:34:42.229Z",
     "original_repository_info": {
       "archived": false,
       "id": 264177826,
