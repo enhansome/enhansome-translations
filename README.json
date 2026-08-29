@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
+            "homepage": "https://mbiesiad.github.io/awesome-translations/",
             "id": 264177826,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
+            "open_issues": 14,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "g11n",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "i18n",
+              "l10n",
+              "locale",
+              "localization",
+              "m17n",
+              "t9n"
+            ]
           },
           "first_seen": "2026-08-28T14:34:42.229Z"
         },
@@ -26,12 +43,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
+            "homepage": "https://mbiesiad.github.io/awesome-translations/",
             "id": 264177826,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
+            "open_issues": 14,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "g11n",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "i18n",
+              "l10n",
+              "locale",
+              "localization",
+              "m17n",
+              "t9n"
+            ]
           },
           "first_seen": "2026-08-28T14:34:42.229Z"
         },
@@ -42,12 +76,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
+            "homepage": null,
             "id": 329981294,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-06-27T22:36:39Z",
+            "open_issues": 0,
             "owner": "niedev",
             "repo": "awesome-translations",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:42.229Z"
         },
@@ -58,12 +97,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
+            "homepage": "https://mbiesiad.github.io/awesome-translations/",
             "id": 598057598,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-01-11T13:00:09Z",
+            "open_issues": 0,
             "owner": "alexture",
             "repo": "awesome-translations",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:42.229Z"
         }
@@ -82,12 +126,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool and TUI editor for managing .NET .resx localization files. Validate translations, import/export CSV, add/remove languages, and edit interactively.",
+                "homepage": null,
                 "id": 1092706684,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-07-10T08:20:43Z",
+                "open_issues": 2,
                 "owner": "nickprotop",
                 "repo": "LocalizationManager",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "cli",
+                  "csharp",
+                  "developer-tools",
+                  "dotnet",
+                  "dotnet-tool",
+                  "i18n",
+                  "l10n",
+                  "linux",
+                  "localization",
+                  "resource-management",
+                  "terminal",
+                  "translation",
+                  "translation-management",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             }
@@ -105,12 +169,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ever® Traduora™ - Open Translation Management Platform - https://traduora.co",
+                "homepage": "https://traduora.co",
                 "id": 173899470,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-05T12:36:23Z",
+                "open_issues": 99,
                 "owner": "ever-co",
                 "repo": "ever-traduora",
-                "stars": 2121
+                "stars": 2121,
+                "topics": [
+                  "angular",
+                  "api",
+                  "i18n",
+                  "internationalization",
+                  "localization",
+                  "nodejs",
+                  "opensource",
+                  "self-hosted",
+                  "teams",
+                  "translation",
+                  "translation-management",
+                  "typescript",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             }
@@ -134,12 +217,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔠Foreign language reading and translation assistant based on copy and translate.",
+                "homepage": "https://copytranslator.github.io",
                 "id": 134030857,
                 "language": "TypeScript",
+                "license": "GPL-2.0",
                 "last_commit": "2026-02-23T13:09:32Z",
+                "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18054
+                "stars": 18055,
+                "topics": [
+                  "copytranslator",
+                  "dictionary",
+                  "translate"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -150,12 +242,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+                "homepage": "https://libretranslate.com",
                 "id": 322921248,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-23T22:47:34Z",
+                "open_issues": 124,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16147
+                "stars": 16152,
+                "topics": [
+                  "api",
+                  "machine",
+                  "translate",
+                  "translation",
+                  "translator"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -166,12 +269,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source real-time translation app for Android that runs locally",
+                "homepage": null,
                 "id": 251396732,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T21:56:17Z",
+                "open_issues": 25,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10361
+                "stars": 10364,
+                "topics": [
+                  "android",
+                  "android-app",
+                  "bluetooth-le",
+                  "mobile-app",
+                  "nllb",
+                  "offline",
+                  "onnx",
+                  "onnxruntime",
+                  "realtime-translator",
+                  "sentencepiece",
+                  "transformers",
+                  "translation",
+                  "translator",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -182,12 +305,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.",
+                "homepage": "https://crow-translate.github.io/",
                 "id": 122614130,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-04T15:06:19Z",
+                "open_issues": 105,
                 "owner": "crow-translate",
                 "repo": "crow-translate",
-                "stars": 1979
+                "stars": 1979,
+                "topics": [
+                  "bing",
+                  "dbus-api",
+                  "google",
+                  "libretranslate",
+                  "lingva",
+                  "linux",
+                  "ocr",
+                  "qt5",
+                  "translator",
+                  "windows",
+                  "yandex"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             }
@@ -205,12 +345,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source offline translation library written in Python",
+                "homepage": "https://www.argosopentech.com",
                 "id": 253849484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-08T12:09:57Z",
+                "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6407
+                "stars": 6408,
+                "topics": [
+                  "language-models",
+                  "linux",
+                  "machine-translation",
+                  "nlp",
+                  "open-source",
+                  "python",
+                  "transformers",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             }
@@ -234,12 +388,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌍 All in one i18n extension for VS Code",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally",
                 "id": 185058464,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-13T10:59:15Z",
+                "open_issues": 474,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4896
+                "stars": 4896,
+                "topics": [
+                  "angular",
+                  "i10n",
+                  "i18n",
+                  "i18next",
+                  "locales",
+                  "react",
+                  "translation",
+                  "vscode",
+                  "vscode-extension",
+                  "vue",
+                  "vue-i18n"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -250,12 +421,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Translators is a library that aims to bring free, multiple, enjoyable translations to individuals and students in Python.  「翻译官」是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。",
+                "homepage": "https://pypi.org/project/translators/",
                 "id": 106274270,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-26T19:15:38Z",
+                "open_issues": 10,
                 "owner": "UlionTse",
                 "repo": "translators",
-                "stars": 2694
+                "stars": 2694,
+                "topics": [
+                  "alibaba",
+                  "argos",
+                  "baidu",
+                  "bing",
+                  "caiyun",
+                  "deepl",
+                  "google",
+                  "iciba",
+                  "iflytek",
+                  "itranslate",
+                  "lara",
+                  "lingvanex",
+                  "modernmt",
+                  "mymemory",
+                  "papago",
+                  "reverso",
+                  "sogou",
+                  "tencent",
+                  "yandex",
+                  "youdao"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -266,12 +463,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.",
+                "homepage": "https://deep-translator.readthedocs.io/en/latest/?badge=latest",
                 "id": 269769023,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-23T22:12:59Z",
+                "open_issues": 66,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2040
+                "stars": 2041,
+                "topics": [
+                  "google-translator",
+                  "hacktoberfest",
+                  "hacktoberfest2021",
+                  "linguee",
+                  "pons",
+                  "python",
+                  "translate",
+                  "translates",
+                  "translating",
+                  "translation",
+                  "translation-api",
+                  "translation-files",
+                  "translation-tool",
+                  "translations",
+                  "translations-api",
+                  "translator",
+                  "yandex",
+                  "yandex-translate"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -282,12 +503,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Useful localization tools with Python API for building localization & translation systems",
+                "homepage": "https://toolkit.translatehouse.org/",
                 "id": 3769696,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:00:12Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:18:26Z",
+                "open_issues": 234,
                 "owner": "translate",
                 "repo": "translate",
-                "stars": 973
+                "stars": 974,
+                "topics": [
+                  "gettext",
+                  "hacktoberfest",
+                  "i18n",
+                  "l10n",
+                  "localization",
+                  "python",
+                  "translate"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -298,12 +532,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":abc: Multilingual and i18n support tool for Jekyll Blogs",
+                "homepage": "https://polyglot.untra.io",
                 "id": 43034994,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-21T20:19:17Z",
+                "open_issues": 6,
                 "owner": "untra",
                 "repo": "polyglot",
-                "stars": 494
+                "stars": 494,
+                "topics": [
+                  "i18n",
+                  "jekyll",
+                  "jekyll-blog",
+                  "multi-language-blogs",
+                  "polyglot",
+                  "seo"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -314,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Sphinx utility that make it easy to translate and to apply translations.",
+                "homepage": "https://sphinx-intl.readthedocs.io/",
                 "id": 45727078,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-01T17:53:28Z",
+                "open_issues": 14,
                 "owner": "sphinx-doc",
                 "repo": "sphinx-intl",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             }
@@ -337,12 +588,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI to assist Coding Agents in doing translations",
+                "homepage": "https://www.npmjs.com/package/attranslate",
                 "id": 295669524,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T11:22:13Z",
+                "open_issues": 6,
                 "owner": "fkirc",
                 "repo": "attranslate",
-                "stars": 358
+                "stars": 358,
+                "topics": [
+                  "internationalization",
+                  "localization",
+                  "semi-automated-translations",
+                  "translations"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -353,12 +614,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌍 A lightweight Swift framework for Google's Cloud Translation API — translate text, detect languages, and list supported languages. Works with SPM, CocoaPods & Carthage.",
+                "homepage": null,
                 "id": 155102764,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-06-27T10:31:24Z",
+                "open_issues": 0,
                 "owner": "maximbilan",
                 "repo": "SwiftGoogleTranslate",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "carthage",
+                  "cocoapods",
+                  "google",
+                  "google-cloud-platform",
+                  "google-translate",
+                  "ios",
+                  "macos",
+                  "swift",
+                  "swift-library",
+                  "swift-package-manager",
+                  "translate",
+                  "translation",
+                  "translation-api",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             }
@@ -376,12 +657,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data",
+                "homepage": "https://globalizejs.com",
                 "id": 946945,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-29T18:47:13Z",
+                "open_issues": 150,
                 "owner": "globalizejs",
                 "repo": "globalize",
-                "stars": 4835
+                "stars": 4835,
+                "topics": [
+                  "cldr",
+                  "cldr-data",
+                  "cldr-json",
+                  "formatter",
+                  "i18n",
+                  "intl",
+                  "l10n",
+                  "parser"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -392,12 +687,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Online translation tool",
+                "homepage": "http://pootle.translatehouse.org",
                 "id": 3769702,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-26T12:08:57Z",
+                "open_issues": 523,
                 "owner": "translate",
                 "repo": "pootle",
-                "stars": 1503
+                "stars": 1503,
+                "topics": [
+                  "django",
+                  "i18n",
+                  "l10n",
+                  "localisation",
+                  "python",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             },
@@ -408,12 +715,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SimpleLocalize CLI is a developer-friendly command-line tool for uploading and downloading translation files ",
+                "homepage": "https://simplelocalize.io/docs/cli/get-started/",
                 "id": 178279149,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-08T07:01:43Z",
+                "open_issues": 1,
                 "owner": "simplelocalize",
                 "repo": "simplelocalize-cli",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "cli",
+                  "i18n",
+                  "localization",
+                  "simplelocalize"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             }
@@ -437,12 +754,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of initiatives for adding new languages to opensource machine translation models",
+                "homepage": null,
                 "id": 859169367,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-19T15:41:22Z",
+                "open_issues": 0,
                 "owner": "openlanguagedata",
                 "repo": "awesome-new-languages-in-machine-translation",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "languages",
+                  "machine-translation",
+                  "multilinguality",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
             }
@@ -464,12 +794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Guide for Localization and Globalization Professionals",
+            "homepage": null,
             "id": 415076901,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-03-03T22:49:15Z",
+            "open_issues": 1,
             "owner": "GILT-Forum",
             "repo": "Globalization-Strategy-Playbook",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:42.229Z"
         }
@@ -478,15 +813,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:34:42.229Z",
+    "last_updated": "2026-08-29T04:50:41.711Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
+      "homepage": "https://mbiesiad.github.io/awesome-translations/",
       "id": 264177826,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-01-18T17:27:28Z",
+      "open_issues": 14,
       "owner": "mbiesiad",
       "repo": "awesome-translations",
-      "stars": 192
+      "stars": 192,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "g11n",
+        "hacktoberfest",
+        "hacktoberfest2020",
+        "i18n",
+        "l10n",
+        "locale",
+        "localization",
+        "m17n",
+        "t9n"
+      ]
     },
     "original_repository_sha": "d8b64f20b4ffcea851e82f261a51f7164ad1a545",
     "enhanced_repository": "enhansome/enhansome-translations",
