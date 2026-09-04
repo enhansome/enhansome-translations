@@ -226,7 +226,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18055,
+                "stars": 18054,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -247,11 +247,11 @@
                 "id": 322921248,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T03:52:25Z",
+                "last_commit": "2026-09-03T17:05:31Z",
                 "open_issues": 125,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16284,
+                "stars": 16286,
                 "topics": [
                   "api",
                   "machine",
@@ -278,7 +278,7 @@
                 "open_issues": 26,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10379,
+                "stars": 10378,
                 "topics": [
                   "android",
                   "android-app",
@@ -354,7 +354,7 @@
                 "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6425,
+                "stars": 6426,
                 "topics": [
                   "language-models",
                   "linux",
@@ -397,7 +397,7 @@
                 "open_issues": 475,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4896,
+                "stars": 4895,
                 "topics": [
                   "angular",
                   "i10n",
@@ -472,7 +472,7 @@
                 "open_issues": 66,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2042,
+                "stars": 2043,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -666,7 +666,7 @@
                 "open_issues": 150,
                 "owner": "globalizejs",
                 "repo": "globalize",
-                "stars": 4835,
+                "stars": 4836,
                 "topics": [
                   "cldr",
                   "cldr-data",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:22:12.754Z",
+    "last_updated": "2026-09-04T07:24:27.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
