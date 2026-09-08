@@ -226,7 +226,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18059,
+                "stars": 18058,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -251,7 +251,7 @@
                 "open_issues": 125,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16311,
+                "stars": 16317,
                 "topics": [
                   "api",
                   "machine",
@@ -278,7 +278,7 @@
                 "open_issues": 28,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10387,
+                "stars": 10389,
                 "topics": [
                   "android",
                   "android-app",
@@ -354,7 +354,7 @@
                 "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6441,
+                "stars": 6445,
                 "topics": [
                   "language-models",
                   "linux",
@@ -508,7 +508,7 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T17:30:46Z",
+                "last_commit": "2026-09-08T06:22:59Z",
                 "open_issues": 232,
                 "owner": "translate",
                 "repo": "translate",
@@ -666,7 +666,7 @@
                 "open_issues": 150,
                 "owner": "globalizejs",
                 "repo": "globalize",
-                "stars": 4835,
+                "stars": 4834,
                 "topics": [
                   "cldr",
                   "cldr-data",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:31:55.416Z",
+    "last_updated": "2026-09-08T07:24:55.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
