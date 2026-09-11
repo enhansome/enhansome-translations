@@ -226,7 +226,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18060,
+                "stars": 18061,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -251,7 +251,7 @@
                 "open_issues": 126,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16339,
+                "stars": 16343,
                 "topics": [
                   "api",
                   "machine",
@@ -278,7 +278,7 @@
                 "open_issues": 28,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10393,
+                "stars": 10399,
                 "topics": [
                   "android",
                   "android-app",
@@ -397,7 +397,7 @@
                 "open_issues": 475,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4894,
+                "stars": 4895,
                 "topics": [
                   "angular",
                   "i10n",
@@ -508,8 +508,8 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T00:21:43Z",
-                "open_issues": 234,
+                "last_commit": "2026-09-10T22:47:22Z",
+                "open_issues": 232,
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 975,
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:29:49.795Z",
+    "last_updated": "2026-09-11T07:27:55.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
