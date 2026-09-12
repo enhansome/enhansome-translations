@@ -226,7 +226,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18061,
+                "stars": 18063,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -251,7 +251,7 @@
                 "open_issues": 126,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16343,
+                "stars": 16353,
                 "topics": [
                   "api",
                   "machine",
@@ -472,7 +472,7 @@
                 "open_issues": 66,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2045,
+                "stars": 2043,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -508,7 +508,7 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T22:47:22Z",
+                "last_commit": "2026-09-12T05:14:32Z",
                 "open_issues": 232,
                 "owner": "translate",
                 "repo": "translate",
@@ -541,7 +541,7 @@
                 "open_issues": 6,
                 "owner": "untra",
                 "repo": "polyglot",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "i18n",
                   "jekyll",
@@ -724,7 +724,7 @@
                 "open_issues": 1,
                 "owner": "simplelocalize",
                 "repo": "simplelocalize-cli",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "cli",
                   "i18n",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:27:55.215Z",
+    "last_updated": "2026-09-12T07:20:15.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
