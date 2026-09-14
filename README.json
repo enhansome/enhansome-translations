@@ -16,7 +16,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 193,
@@ -49,7 +49,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 193,
@@ -178,7 +178,7 @@
                 "open_issues": 99,
                 "owner": "ever-co",
                 "repo": "ever-traduora",
-                "stars": 2125,
+                "stars": 2126,
                 "topics": [
                   "angular",
                   "api",
@@ -226,7 +226,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18067,
+                "stars": 18071,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -251,7 +251,7 @@
                 "open_issues": 126,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16407,
+                "stars": 16506,
                 "topics": [
                   "api",
                   "machine",
@@ -314,7 +314,7 @@
                 "open_issues": 105,
                 "owner": "crow-translate",
                 "repo": "crow-translate",
-                "stars": 1977,
+                "stars": 1976,
                 "topics": [
                   "bing",
                   "dbus-api",
@@ -354,7 +354,7 @@
                 "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6457,
+                "stars": 6462,
                 "topics": [
                   "language-models",
                   "linux",
@@ -430,7 +430,7 @@
                 "open_issues": 10,
                 "owner": "UlionTse",
                 "repo": "translators",
-                "stars": 2701,
+                "stars": 2703,
                 "topics": [
                   "alibaba",
                   "argos",
@@ -472,7 +472,7 @@
                 "open_issues": 66,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2043,
+                "stars": 2045,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -508,11 +508,11 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T05:14:32Z",
+                "last_commit": "2026-09-13T22:19:38Z",
                 "open_issues": 232,
                 "owner": "translate",
                 "repo": "translate",
-                "stars": 977,
+                "stars": 978,
                 "topics": [
                   "gettext",
                   "hacktoberfest",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:38:39.437Z",
+    "last_updated": "2026-09-14T08:05:54.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
@@ -822,7 +822,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-18T17:27:28Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "mbiesiad",
       "repo": "awesome-translations",
       "stars": 193,
