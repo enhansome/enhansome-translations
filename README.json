@@ -178,7 +178,7 @@
                 "open_issues": 99,
                 "owner": "ever-co",
                 "repo": "ever-traduora",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "angular",
                   "api",
@@ -248,10 +248,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-03T17:05:31Z",
-                "open_issues": 126,
+                "open_issues": 128,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16506,
+                "stars": 16611,
                 "topics": [
                   "api",
                   "machine",
@@ -278,7 +278,7 @@
                 "open_issues": 28,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10400,
+                "stars": 10403,
                 "topics": [
                   "android",
                   "android-app",
@@ -354,7 +354,7 @@
                 "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6462,
+                "stars": 6465,
                 "topics": [
                   "language-models",
                   "linux",
@@ -430,7 +430,7 @@
                 "open_issues": 10,
                 "owner": "UlionTse",
                 "repo": "translators",
-                "stars": 2703,
+                "stars": 2704,
                 "topics": [
                   "alibaba",
                   "argos",
@@ -508,8 +508,8 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T22:19:38Z",
-                "open_issues": 232,
+                "last_commit": "2026-09-15T03:42:48Z",
+                "open_issues": 233,
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 978,
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:05:54.712Z",
+    "last_updated": "2026-09-15T08:00:54.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
