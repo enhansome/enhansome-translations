@@ -16,7 +16,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 193,
@@ -49,7 +49,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 193,
@@ -226,7 +226,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18074,
+                "stars": 18075,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -251,7 +251,7 @@
                 "open_issues": 126,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16649,
+                "stars": 16680,
                 "topics": [
                   "api",
                   "machine",
@@ -278,7 +278,7 @@
                 "open_issues": 29,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10409,
+                "stars": 10410,
                 "topics": [
                   "android",
                   "android-app",
@@ -354,7 +354,7 @@
                 "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6470,
+                "stars": 6476,
                 "topics": [
                   "language-models",
                   "linux",
@@ -430,7 +430,7 @@
                 "open_issues": 10,
                 "owner": "UlionTse",
                 "repo": "translators",
-                "stars": 2705,
+                "stars": 2706,
                 "topics": [
                   "alibaba",
                   "argos",
@@ -472,7 +472,7 @@
                 "open_issues": 66,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2044,
+                "stars": 2045,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -508,11 +508,11 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T03:42:48Z",
+                "last_commit": "2026-09-17T06:10:53Z",
                 "open_issues": 234,
                 "owner": "translate",
                 "repo": "translate",
-                "stars": 978,
+                "stars": 979,
                 "topics": [
                   "gettext",
                   "hacktoberfest",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:53:43.953Z",
+    "last_updated": "2026-09-17T07:58:10.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
@@ -822,7 +822,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-18T17:27:28Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "mbiesiad",
       "repo": "awesome-translations",
       "stars": 193,
