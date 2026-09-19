@@ -178,7 +178,7 @@
                 "open_issues": 99,
                 "owner": "ever-co",
                 "repo": "ever-traduora",
-                "stars": 2129,
+                "stars": 2130,
                 "topics": [
                   "angular",
                   "api",
@@ -251,7 +251,7 @@
                 "open_issues": 126,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16648,
+                "stars": 16665,
                 "topics": [
                   "api",
                   "machine",
@@ -278,7 +278,7 @@
                 "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10412,
+                "stars": 10420,
                 "topics": [
                   "android",
                   "android-app",
@@ -354,7 +354,7 @@
                 "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6480,
+                "stars": 6482,
                 "topics": [
                   "language-models",
                   "linux",
@@ -508,8 +508,8 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T21:33:16Z",
-                "open_issues": 235,
+                "last_commit": "2026-09-19T05:49:58Z",
+                "open_issues": 236,
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 979,
@@ -569,7 +569,7 @@
                 "open_issues": 10,
                 "owner": "sphinx-doc",
                 "repo": "sphinx-intl",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:36:09.709Z",
+    "last_updated": "2026-09-19T07:31:44.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
