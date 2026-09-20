@@ -18,8 +18,8 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ## Translations
 
-* [English](https://github.com/mbiesiad/awesome-translations) ⭐ 193 | 🐛 18 | 📅 2026-01-18
-* [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL) ⭐ 193 | 🐛 18 | 📅 2026-01-18
+* [English](https://github.com/mbiesiad/awesome-translations) ⭐ 193 | 🐛 19 | 📅 2026-01-18
+* [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL) ⭐ 193 | 🐛 19 | 📅 2026-01-18
 * [Italian](https://github.com/niedev/awesome-translations/tree/it_IT) ⭐ 9 | 🐛 0 | 📅 2024-06-27
 * [French](https://github.com/alexture/awesome-translations/tree/fr_FR) ⭐ 2 | 🐛 0 | 📅 2024-01-11
 * [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
@@ -55,14 +55,14 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automated translation
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,077 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,665 | 🐛 126 | 🌐 Python | 📅 2026-09-03 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,420 | 🐛 30 | 🌐 Java | 📅 2026-08-26 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,080 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,673 | 🐛 126 | 🌐 Python | 📅 2026-09-03 - 100% Self-Hosted web app to translate text, based on Argos Translate.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,431 | 🐛 30 | 🌐 Java | 📅 2026-08-26 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
 
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,482 | 🐛 161 | 🌐 Python | 📅 2026-08-08 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,486 | 🐛 161 | 🌐 Python | 📅 2026-08-08 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 * [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
 * [Fink](https://inlang.com/m/tdozzpar) - Translation editor / CAT software with no-code setup and repository-based operation.
 * [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
@@ -111,7 +111,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Other tools
 
 * [Globalize](https://github.com/globalizejs/globalize) ⭐ 4,832 | 🐛 150 | 🌐 JavaScript | 📅 2025-09-29 - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
-* [Pootle](https://github.com/translate/pootle) ⭐ 1,504 | 🐛 523 | 🌐 Python | 📅 2024-08-26 - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
+* [Pootle](https://github.com/translate/pootle) ⭐ 1,505 | 🐛 523 | 🌐 Python | 📅 2024-08-26 - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
 * [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) ⭐ 79 | 🐛 1 | 🌐 Java | 📅 2026-08-08 - A CLI for finding translation keys in project files.
 * [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
 * [Ninja i18n](https://inlang.com/m/3gk8n4n4/app-inlang-ninjaI18nAction) - A GitHub action for translation linting in pull requests.
@@ -180,4 +180,4 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

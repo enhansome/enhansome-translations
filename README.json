@@ -16,7 +16,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 193,
@@ -49,7 +49,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 193,
@@ -226,7 +226,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18077,
+                "stars": 18080,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -251,7 +251,7 @@
                 "open_issues": 126,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16665,
+                "stars": 16673,
                 "topics": [
                   "api",
                   "machine",
@@ -278,7 +278,7 @@
                 "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10420,
+                "stars": 10431,
                 "topics": [
                   "android",
                   "android-app",
@@ -354,7 +354,7 @@
                 "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6482,
+                "stars": 6486,
                 "topics": [
                   "language-models",
                   "linux",
@@ -508,7 +508,7 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T05:49:58Z",
+                "last_commit": "2026-09-19T10:59:23Z",
                 "open_issues": 236,
                 "owner": "translate",
                 "repo": "translate",
@@ -696,7 +696,7 @@
                 "open_issues": 523,
                 "owner": "translate",
                 "repo": "pootle",
-                "stars": 1504,
+                "stars": 1505,
                 "topics": [
                   "django",
                   "i18n",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:31:44.254Z",
+    "last_updated": "2026-09-20T07:54:55.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
@@ -822,7 +822,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-18T17:27:28Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "mbiesiad",
       "repo": "awesome-translations",
       "stars": 193,
