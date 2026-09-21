@@ -16,7 +16,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 193,
@@ -49,7 +49,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "mbiesiad",
             "repo": "awesome-translations",
             "stars": 193,
@@ -226,7 +226,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18080,
+                "stars": 18083,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -251,7 +251,7 @@
                 "open_issues": 126,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16673,
+                "stars": 16688,
                 "topics": [
                   "api",
                   "machine",
@@ -274,11 +274,11 @@
                 "id": 251396732,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-26T21:56:17Z",
+                "last_commit": "2026-09-20T20:29:30Z",
                 "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10431,
+                "stars": 10442,
                 "topics": [
                   "android",
                   "android-app",
@@ -314,7 +314,7 @@
                 "open_issues": 105,
                 "owner": "crow-translate",
                 "repo": "crow-translate",
-                "stars": 1976,
+                "stars": 1975,
                 "topics": [
                   "bing",
                   "dbus-api",
@@ -354,7 +354,7 @@
                 "open_issues": 161,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6486,
+                "stars": 6488,
                 "topics": [
                   "language-models",
                   "linux",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:54:55.368Z",
+    "last_updated": "2026-09-21T08:11:34.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
@@ -822,7 +822,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-18T17:27:28Z",
-      "open_issues": 19,
+      "open_issues": 18,
       "owner": "mbiesiad",
       "repo": "awesome-translations",
       "stars": 193,
