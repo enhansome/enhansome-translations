@@ -56,13 +56,13 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Automated translation
 
 * [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,096 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,861 | 🐛 128 | 🌐 Python | 📅 2026-09-03 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,462 | 🐛 30 | 🌐 Java | 📅 2026-09-26 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,875 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - 100% Self-Hosted web app to translate text, based on Argos Translate.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,463 | 🐛 30 | 🌐 Java | 📅 2026-09-26 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
 
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,511 | 🐛 162 | 🌐 Python | 📅 2026-08-08 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,514 | 🐛 162 | 🌐 Python | 📅 2026-08-08 - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 * [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
 * [Fink](https://inlang.com/m/tdozzpar) - Translation editor / CAT software with no-code setup and repository-based operation.
 * [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
@@ -180,4 +180,4 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

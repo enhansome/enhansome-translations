@@ -247,11 +247,11 @@
                 "id": 322921248,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T17:05:31Z",
-                "open_issues": 128,
+                "last_commit": "2026-09-28T00:52:25Z",
+                "open_issues": 127,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16861,
+                "stars": 16875,
                 "topics": [
                   "api",
                   "machine",
@@ -278,7 +278,7 @@
                 "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10462,
+                "stars": 10463,
                 "topics": [
                   "android",
                   "android-app",
@@ -354,7 +354,7 @@
                 "open_issues": 162,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6511,
+                "stars": 6514,
                 "topics": [
                   "language-models",
                   "linux",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:32:28.172Z",
+    "last_updated": "2026-09-28T08:56:30.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
