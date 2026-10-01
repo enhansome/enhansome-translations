@@ -178,7 +178,7 @@
                 "open_issues": 99,
                 "owner": "ever-co",
                 "repo": "ever-traduora",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "angular",
                   "api",
@@ -226,7 +226,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18095,
+                "stars": 18096,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -251,7 +251,7 @@
                 "open_issues": 126,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16947,
+                "stars": 16969,
                 "topics": [
                   "api",
                   "machine",
@@ -274,11 +274,11 @@
                 "id": 251396732,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T22:32:14Z",
+                "last_commit": "2026-09-30T22:59:16Z",
                 "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10469,
+                "stars": 10473,
                 "topics": [
                   "android",
                   "android-app",
@@ -354,7 +354,7 @@
                 "open_issues": 164,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6522,
+                "stars": 6523,
                 "topics": [
                   "language-models",
                   "linux",
@@ -430,7 +430,7 @@
                 "open_issues": 10,
                 "owner": "UlionTse",
                 "repo": "translators",
-                "stars": 2712,
+                "stars": 2713,
                 "topics": [
                   "alibaba",
                   "argos",
@@ -472,7 +472,7 @@
                 "open_issues": 68,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2045,
+                "stars": 2046,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T08:59:24.612Z",
+    "last_updated": "2026-10-01T09:24:30.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
