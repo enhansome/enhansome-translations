@@ -55,9 +55,9 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automated translation
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,097 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,096 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 * [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,977 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,476 | 🐛 30 | 🌐 Java | 📅 2026-10-02 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,475 | 🐛 30 | 🌐 Java | 📅 2026-10-02 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
@@ -81,7 +81,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Libraries and tools for developers
 
-* [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,894 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
+* [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,894 | 🐛 474 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
 * [Translator](https://github.com/UlionTse/translators) ⭐ 2,693 | 🐛 10 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 * [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,047 | 🐛 68 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 * [Translate](https://github.com/translate/translate) ⭐ 980 | 🐛 234 | 🌐 Python | 📅 2026-10-03 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
