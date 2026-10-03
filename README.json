@@ -5,74 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "English",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
-            "homepage": "https://mbiesiad.github.io/awesome-translations/",
-            "id": 264177826,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 19,
-            "owner": "mbiesiad",
-            "repo": "awesome-translations",
-            "stars": 193,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "g11n",
-              "hacktoberfest",
-              "hacktoberfest2020",
-              "i18n",
-              "l10n",
-              "locale",
-              "localization",
-              "m17n",
-              "t9n"
-            ]
-          },
-          "first_seen": "2026-08-28T14:34:42.229Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Polish",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
-            "homepage": "https://mbiesiad.github.io/awesome-translations/",
-            "id": 264177826,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-01-18T17:27:28Z",
-            "open_issues": 19,
-            "owner": "mbiesiad",
-            "repo": "awesome-translations",
-            "stars": 193,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "g11n",
-              "hacktoberfest",
-              "hacktoberfest2020",
-              "i18n",
-              "l10n",
-              "locale",
-              "localization",
-              "m17n",
-              "t9n"
-            ]
-          },
-          "first_seen": "2026-08-28T14:34:42.229Z"
-        },
-        {
-          "node_type": "item",
           "title": "Italian",
-          "description": null,
+          "description": "niedev/awesome-translations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,7 +27,7 @@
         {
           "node_type": "item",
           "title": "French",
-          "description": null,
+          "description": "alexture/awesome-translations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -226,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18098,
+                "stars": 18097,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -251,7 +185,7 @@
                 "open_issues": 127,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16976,
+                "stars": 16977,
                 "topics": [
                   "api",
                   "machine",
@@ -274,11 +208,11 @@
                 "id": 251396732,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T22:59:16Z",
+                "last_commit": "2026-10-02T16:18:12Z",
                 "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10475,
+                "stars": 10476,
                 "topics": [
                   "android",
                   "android-app",
@@ -508,7 +442,7 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T01:41:33Z",
+                "last_commit": "2026-10-03T05:05:28Z",
                 "open_issues": 234,
                 "owner": "translate",
                 "repo": "translate",
@@ -569,7 +503,7 @@
                 "open_issues": 10,
                 "owner": "sphinx-doc",
                 "repo": "sphinx-intl",
-                "stars": 84,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:42.229Z"
@@ -696,7 +630,7 @@
                 "open_issues": 523,
                 "owner": "translate",
                 "repo": "pootle",
-                "stars": 1505,
+                "stars": 1504,
                 "topics": [
                   "django",
                   "i18n",
@@ -813,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:58:42.074Z",
+    "last_updated": "2026-10-03T05:12:14.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",

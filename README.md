@@ -18,10 +18,10 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ## Translations
 
-* [English](https://github.com/mbiesiad/awesome-translations) ⭐ 193 | 🐛 19 | 📅 2026-01-18
-* [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL) ⭐ 193 | 🐛 19 | 📅 2026-01-18
 * [Italian](https://github.com/niedev/awesome-translations/tree/it_IT) ⭐ 9 | 🐛 0 | 📅 2024-06-27
 * [French](https://github.com/alexture/awesome-translations/tree/fr_FR) ⭐ 2 | 🐛 0 | 📅 2024-01-11
+* [English](https://github.com/mbiesiad/awesome-translations)
+* [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 * [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
 
 ## Platforms
@@ -55,9 +55,9 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automated translation
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,098 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,976 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,475 | 🐛 30 | 🌐 Java | 📅 2026-09-30 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,097 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,977 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - 100% Self-Hosted web app to translate text, based on Argos Translate.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,476 | 🐛 30 | 🌐 Java | 📅 2026-10-02 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
@@ -84,9 +84,9 @@ This list contains tools, books, articles, blogs, courses and everything related
 * [i18n Ally](https://github.com/antfu/i18n-ally) ⭐ 4,894 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - Extension for VSCode, all in one about i18n.
 * [Translator](https://github.com/UlionTse/translators) ⭐ 2,693 | 🐛 10 | 🌐 Python | 📅 2026-01-26 - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 * [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,047 | 🐛 68 | 🌐 Python | 📅 2024-07-23 - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-* [Translate](https://github.com/translate/translate) ⭐ 980 | 🐛 234 | 🌐 Python | 📅 2026-09-30 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+* [Translate](https://github.com/translate/translate) ⭐ 980 | 🐛 234 | 🌐 Python | 📅 2026-10-03 - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 * [Polyglot](https://github.com/untra/polyglot) ⭐ 498 | 🐛 6 | 🌐 Ruby | 📅 2026-08-21 - A fast, painless, open-source internationalization plugin for Jekyll blogs.
-* [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) ⭐ 84 | 🐛 10 | 🌐 Python | 📅 2026-08-30 - A Sphinx utility that make it easy to translate and to apply translations.
+* [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) ⭐ 83 | 🐛 10 | 🌐 Python | 📅 2026-08-30 - A Sphinx utility that make it easy to translate and to apply translations.
 * [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 * [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 * [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
@@ -111,7 +111,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Other tools
 
 * [Globalize](https://github.com/globalizejs/globalize) ⭐ 4,833 | 🐛 150 | 🌐 JavaScript | 📅 2025-09-29 - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
-* [Pootle](https://github.com/translate/pootle) ⭐ 1,505 | 🐛 523 | 🌐 Python | 📅 2024-08-26 - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
+* [Pootle](https://github.com/translate/pootle) ⭐ 1,504 | 🐛 523 | 🌐 Python | 📅 2024-08-26 - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
 * [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) ⭐ 80 | 🐛 1 | 🌐 Java | 📅 2026-09-28 - A CLI for finding translation keys in project files.
 * [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
 * [Ninja i18n](https://inlang.com/m/3gk8n4n4/app-inlang-ninjaI18nAction) - A GitHub action for translation linting in pull requests.
@@ -180,4 +180,4 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
