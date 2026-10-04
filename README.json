@@ -160,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18096,
+                "stars": 18099,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -185,7 +185,7 @@
                 "open_issues": 127,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16977,
+                "stars": 16980,
                 "topics": [
                   "api",
                   "machine",
@@ -208,7 +208,7 @@
                 "id": 251396732,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:18:12Z",
+                "last_commit": "2026-10-03T21:59:21Z",
                 "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
@@ -288,7 +288,7 @@
                 "open_issues": 164,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6521,
+                "stars": 6524,
                 "topics": [
                   "language-models",
                   "linux",
@@ -331,7 +331,7 @@
                 "open_issues": 474,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4894,
+                "stars": 4895,
                 "topics": [
                   "angular",
                   "i10n",
@@ -442,8 +442,8 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T05:05:28Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-04T04:31:55Z",
+                "open_issues": 235,
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 980,
@@ -600,7 +600,7 @@
                 "open_issues": 150,
                 "owner": "globalizejs",
                 "repo": "globalize",
-                "stars": 4833,
+                "stars": 4834,
                 "topics": [
                   "cldr",
                   "cldr-data",
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:32:34.571Z",
+    "last_updated": "2026-10-04T08:45:07.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
@@ -759,7 +759,7 @@
       "open_issues": 19,
       "owner": "mbiesiad",
       "repo": "awesome-translations",
-      "stars": 193,
+      "stars": 192,
       "topics": [
         "awesome",
         "awesome-list",
