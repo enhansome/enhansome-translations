@@ -212,7 +212,7 @@
                 "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10481,
+                "stars": 10482,
                 "topics": [
                   "android",
                   "android-app",
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:23:35.657Z",
+    "last_updated": "2026-10-06T10:54:25.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",

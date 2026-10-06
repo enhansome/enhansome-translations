@@ -57,7 +57,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 * [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,104 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 * [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,993 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - 100% Self-Hosted web app to translate text, based on Argos Translate.
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,481 | 🐛 30 | 🌐 Java | 📅 2026-10-05 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,482 | 🐛 30 | 🌐 Java | 📅 2026-10-05 - A simultaneous translator app for Android based on NLLB and Whisper that runs locally.
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 
 ### Translation software
