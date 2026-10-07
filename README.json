@@ -160,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18104,
+                "stars": 18105,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -185,7 +185,7 @@
                 "open_issues": 127,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 16993,
+                "stars": 16997,
                 "topics": [
                   "api",
                   "machine",
@@ -208,11 +208,11 @@
                 "id": 251396732,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T18:45:16Z",
+                "last_commit": "2026-10-06T21:34:17Z",
                 "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10482,
+                "stars": 10484,
                 "topics": [
                   "android",
                   "android-app",
@@ -248,7 +248,7 @@
                 "open_issues": 105,
                 "owner": "crow-translate",
                 "repo": "crow-translate",
-                "stars": 1971,
+                "stars": 1970,
                 "topics": [
                   "bing",
                   "dbus-api",
@@ -288,7 +288,7 @@
                 "open_issues": 165,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6531,
+                "stars": 6533,
                 "topics": [
                   "language-models",
                   "linux",
@@ -364,7 +364,7 @@
                 "open_issues": 10,
                 "owner": "UlionTse",
                 "repo": "translators",
-                "stars": 2693,
+                "stars": 2694,
                 "topics": [
                   "alibaba",
                   "argos",
@@ -406,7 +406,7 @@
                 "open_issues": 68,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2047,
+                "stars": 2046,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -442,11 +442,11 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T18:07:14Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-07T01:07:22Z",
+                "open_issues": 235,
                 "owner": "translate",
                 "repo": "translate",
-                "stars": 981,
+                "stars": 980,
                 "topics": [
                   "gettext",
                   "hacktoberfest",
@@ -654,7 +654,7 @@
                 "id": 178279149,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-28T21:05:56Z",
+                "last_commit": "2026-10-06T11:03:16Z",
                 "open_issues": 1,
                 "owner": "simplelocalize",
                 "repo": "simplelocalize-cli",
@@ -697,7 +697,7 @@
                 "open_issues": 0,
                 "owner": "openlanguagedata",
                 "repo": "awesome-new-languages-in-machine-translation",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:25.135Z",
+    "last_updated": "2026-10-07T09:13:03.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
@@ -756,7 +756,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-18T17:27:28Z",
-      "open_issues": 21,
+      "open_issues": 22,
       "owner": "mbiesiad",
       "repo": "awesome-translations",
       "stars": 192,
