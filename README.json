@@ -160,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18120,
+                "stars": 18117,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -185,7 +185,7 @@
                 "open_issues": 128,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 17098,
+                "stars": 17111,
                 "topics": [
                   "api",
                   "machine",
@@ -209,7 +209,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-12T16:11:49Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "niedev",
                 "repo": "RTranslator",
                 "stars": 10518,
@@ -288,7 +288,7 @@
                 "open_issues": 165,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6567,
+                "stars": 6572,
                 "topics": [
                   "language-models",
                   "linux",
@@ -406,7 +406,7 @@
                 "open_issues": 68,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2048,
+                "stars": 2046,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -443,7 +443,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-17T05:18:27Z",
-                "open_issues": 236,
+                "open_issues": 237,
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 981,
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:10:52.167Z",
+    "last_updated": "2026-10-18T07:24:55.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
