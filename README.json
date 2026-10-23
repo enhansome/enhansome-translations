@@ -185,7 +185,7 @@
                 "open_issues": 129,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 17143,
+                "stars": 17155,
                 "topics": [
                   "api",
                   "machine",
@@ -208,11 +208,11 @@
                 "id": 251396732,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T13:53:29Z",
+                "last_commit": "2026-10-22T16:02:33Z",
                 "open_issues": 27,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10528,
+                "stars": 10531,
                 "topics": [
                   "android",
                   "android-app",
@@ -248,7 +248,7 @@
                 "open_issues": 105,
                 "owner": "crow-translate",
                 "repo": "crow-translate",
-                "stars": 1965,
+                "stars": 1964,
                 "topics": [
                   "bing",
                   "dbus-api",
@@ -288,7 +288,7 @@
                 "open_issues": 167,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6583,
+                "stars": 6586,
                 "topics": [
                   "language-models",
                   "linux",
@@ -331,7 +331,7 @@
                 "open_issues": 473,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4896,
+                "stars": 4895,
                 "topics": [
                   "angular",
                   "i10n",
@@ -442,8 +442,8 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T05:12:41Z",
-                "open_issues": 238,
+                "last_commit": "2026-10-22T22:57:23Z",
+                "open_issues": 235,
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 980,
@@ -654,7 +654,7 @@
                 "id": 178279149,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-13T06:36:17Z",
+                "last_commit": "2026-10-22T20:29:25Z",
                 "open_issues": 2,
                 "owner": "simplelocalize",
                 "repo": "simplelocalize-cli",
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T07:56:06.812Z",
+    "last_updated": "2026-10-23T07:55:13.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
