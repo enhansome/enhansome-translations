@@ -108,7 +108,7 @@
                 "id": 173899470,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-25T17:58:27Z",
+                "last_commit": "2026-10-26T17:16:53Z",
                 "open_issues": 100,
                 "owner": "ever-co",
                 "repo": "ever-traduora",
@@ -160,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18125,
+                "stars": 18127,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -185,7 +185,7 @@
                 "open_issues": 131,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 17185,
+                "stars": 17195,
                 "topics": [
                   "api",
                   "machine",
@@ -212,7 +212,7 @@
                 "open_issues": 27,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10551,
+                "stars": 10568,
                 "topics": [
                   "android",
                   "android-app",
@@ -288,7 +288,7 @@
                 "open_issues": 167,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6594,
+                "stars": 6601,
                 "topics": [
                   "language-models",
                   "linux",
@@ -331,7 +331,7 @@
                 "open_issues": 473,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4896,
+                "stars": 4895,
                 "topics": [
                   "angular",
                   "i10n",
@@ -364,7 +364,7 @@
                 "open_issues": 10,
                 "owner": "UlionTse",
                 "repo": "translators",
-                "stars": 2698,
+                "stars": 2699,
                 "topics": [
                   "alibaba",
                   "argos",
@@ -442,7 +442,7 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T05:44:39Z",
+                "last_commit": "2026-10-26T16:56:58Z",
                 "open_issues": 233,
                 "owner": "translate",
                 "repo": "translate",
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T08:05:48.646Z",
+    "last_updated": "2026-10-27T08:21:13.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
@@ -756,7 +756,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-18T17:27:28Z",
-      "open_issues": 28,
+      "open_issues": 29,
       "owner": "mbiesiad",
       "repo": "awesome-translations",
       "stars": 193,
