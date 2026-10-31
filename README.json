@@ -69,7 +69,7 @@
                 "open_issues": 2,
                 "owner": "nickprotop",
                 "repo": "LocalizationManager",
-                "stars": 51,
+                "stars": 50,
                 "topics": [
                   "cli",
                   "csharp",
@@ -160,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18134,
+                "stars": 18135,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -185,7 +185,7 @@
                 "open_issues": 132,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 17226,
+                "stars": 17230,
                 "topics": [
                   "api",
                   "machine",
@@ -212,7 +212,7 @@
                 "open_issues": 29,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10589,
+                "stars": 10597,
                 "topics": [
                   "android",
                   "android-app",
@@ -288,7 +288,7 @@
                 "open_issues": 168,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6608,
+                "stars": 6610,
                 "topics": [
                   "language-models",
                   "linux",
@@ -331,7 +331,7 @@
                 "open_issues": 474,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4900,
+                "stars": 4901,
                 "topics": [
                   "angular",
                   "i10n",
@@ -442,8 +442,8 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T21:16:38Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-31T06:56:26Z",
+                "open_issues": 233,
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 983,
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:57:57.399Z",
+    "last_updated": "2026-10-31T08:50:57.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
