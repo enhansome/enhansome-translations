@@ -160,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18135,
+                "stars": 18137,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -185,7 +185,7 @@
                 "open_issues": 132,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 17258,
+                "stars": 17277,
                 "topics": [
                   "api",
                   "machine",
@@ -208,11 +208,11 @@
                 "id": 251396732,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T22:11:27Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-04T23:36:26Z",
+                "open_issues": 28,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10607,
+                "stars": 10611,
                 "topics": [
                   "android",
                   "android-app",
@@ -248,7 +248,7 @@
                 "open_issues": 105,
                 "owner": "crow-translate",
                 "repo": "crow-translate",
-                "stars": 1965,
+                "stars": 1963,
                 "topics": [
                   "bing",
                   "dbus-api",
@@ -288,7 +288,7 @@
                 "open_issues": 168,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6621,
+                "stars": 6625,
                 "topics": [
                   "language-models",
                   "linux",
@@ -331,7 +331,7 @@
                 "open_issues": 474,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4899,
+                "stars": 4900,
                 "topics": [
                   "angular",
                   "i10n",
@@ -406,7 +406,7 @@
                 "open_issues": 68,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2051,
+                "stars": 2050,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -442,8 +442,8 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T08:20:59Z",
-                "open_issues": 232,
+                "last_commit": "2026-11-05T01:11:57Z",
+                "open_issues": 234,
                 "owner": "translate",
                 "repo": "translate",
                 "stars": 983,
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T10:01:35.139Z",
+    "last_updated": "2026-11-05T09:49:31.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
@@ -756,7 +756,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-18T17:27:28Z",
-      "open_issues": 30,
+      "open_issues": 31,
       "owner": "mbiesiad",
       "repo": "awesome-translations",
       "stars": 193,
