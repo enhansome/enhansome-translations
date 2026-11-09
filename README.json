@@ -160,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18137,
+                "stars": 18143,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -185,7 +185,7 @@
                 "open_issues": 133,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 17296,
+                "stars": 17346,
                 "topics": [
                   "api",
                   "machine",
@@ -212,7 +212,7 @@
                 "open_issues": 28,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10615,
+                "stars": 10622,
                 "topics": [
                   "android",
                   "android-app",
@@ -285,10 +285,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-08T12:09:57Z",
-                "open_issues": 168,
+                "open_issues": 169,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6628,
+                "stars": 6634,
                 "topics": [
                   "language-models",
                   "linux",
@@ -331,7 +331,7 @@
                 "open_issues": 474,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4902,
+                "stars": 4903,
                 "topics": [
                   "angular",
                   "i10n",
@@ -442,7 +442,7 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T01:21:29Z",
+                "last_commit": "2026-11-09T09:39:05Z",
                 "open_issues": 234,
                 "owner": "translate",
                 "repo": "translate",
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T09:27:26.582Z",
+    "last_updated": "2026-11-09T10:17:49.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
