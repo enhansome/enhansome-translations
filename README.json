@@ -108,7 +108,7 @@
                 "id": 173899470,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-12T21:50:45Z",
+                "last_commit": "2026-11-13T18:11:07Z",
                 "open_issues": 104,
                 "owner": "ever-co",
                 "repo": "ever-traduora",
@@ -160,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18146,
+                "stars": 18144,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -182,10 +182,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-10T18:02:12Z",
-                "open_issues": 134,
+                "open_issues": 133,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 17556,
+                "stars": 17694,
                 "topics": [
                   "api",
                   "machine",
@@ -212,7 +212,7 @@
                 "open_issues": 28,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10648,
+                "stars": 10653,
                 "topics": [
                   "android",
                   "android-app",
@@ -248,7 +248,7 @@
                 "open_issues": 105,
                 "owner": "crow-translate",
                 "repo": "crow-translate",
-                "stars": 1962,
+                "stars": 1963,
                 "topics": [
                   "bing",
                   "dbus-api",
@@ -285,10 +285,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-08T12:09:57Z",
-                "open_issues": 169,
+                "open_issues": 171,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6649,
+                "stars": 6652,
                 "topics": [
                   "language-models",
                   "linux",
@@ -331,7 +331,7 @@
                 "open_issues": 474,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4902,
+                "stars": 4901,
                 "topics": [
                   "angular",
                   "i10n",
@@ -364,7 +364,7 @@
                 "open_issues": 22,
                 "owner": "UlionTse",
                 "repo": "translators",
-                "stars": 2696,
+                "stars": 2695,
                 "topics": [
                   "alibaba",
                   "argos",
@@ -406,7 +406,7 @@
                 "open_issues": 68,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2052,
+                "stars": 2053,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -442,11 +442,11 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T09:04:10Z",
-                "open_issues": 233,
+                "last_commit": "2026-11-14T02:26:19Z",
+                "open_issues": 241,
                 "owner": "translate",
                 "repo": "translate",
-                "stars": 986,
+                "stars": 987,
                 "topics": [
                   "gettext",
                   "hacktoberfest",
@@ -471,8 +471,8 @@
                 "id": 43034994,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-11T05:05:59Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-13T17:20:36Z",
+                "open_issues": 8,
                 "owner": "untra",
                 "repo": "polyglot",
                 "stars": 498,
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:57:09.536Z",
+    "last_updated": "2026-11-14T09:23:32.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
