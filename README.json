@@ -108,8 +108,8 @@
                 "id": 173899470,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T06:52:42Z",
-                "open_issues": 103,
+                "last_commit": "2026-11-17T10:53:05Z",
+                "open_issues": 110,
                 "owner": "ever-co",
                 "repo": "ever-traduora",
                 "stars": 2141,
@@ -160,7 +160,7 @@
                 "open_issues": 129,
                 "owner": "CopyTranslator",
                 "repo": "CopyTranslator",
-                "stars": 18146,
+                "stars": 18145,
                 "topics": [
                   "copytranslator",
                   "dictionary",
@@ -182,10 +182,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-14T12:22:54Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "LibreTranslate",
                 "repo": "LibreTranslate",
-                "stars": 17768,
+                "stars": 17777,
                 "topics": [
                   "api",
                   "machine",
@@ -212,7 +212,7 @@
                 "open_issues": 28,
                 "owner": "niedev",
                 "repo": "RTranslator",
-                "stars": 10666,
+                "stars": 10672,
                 "topics": [
                   "android",
                   "android-app",
@@ -288,7 +288,7 @@
                 "open_issues": 171,
                 "owner": "argosopentech",
                 "repo": "argos-translate",
-                "stars": 6657,
+                "stars": 6665,
                 "topics": [
                   "language-models",
                   "linux",
@@ -331,7 +331,7 @@
                 "open_issues": 474,
                 "owner": "lokalise",
                 "repo": "i18n-ally",
-                "stars": 4902,
+                "stars": 4903,
                 "topics": [
                   "angular",
                   "i10n",
@@ -442,7 +442,7 @@
                 "id": 3769696,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T08:22:44Z",
+                "last_commit": "2026-11-16T10:13:01Z",
                 "open_issues": 234,
                 "owner": "translate",
                 "repo": "translate",
@@ -531,7 +531,7 @@
                 "open_issues": 8,
                 "owner": "fkirc",
                 "repo": "attranslate",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "internationalization",
                   "localization",
@@ -737,7 +737,7 @@
             "open_issues": 1,
             "owner": "GILT-Forum",
             "repo": "Globalization-Strategy-Playbook",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:42.229Z"
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:08:57.868Z",
+    "last_updated": "2026-11-17T11:05:33.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍",
